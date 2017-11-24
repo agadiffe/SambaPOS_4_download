@@ -15,4 +15,4 @@ seem pretty boring to find that file, i hope google will do his job if you'r loo
 
 
 Here the SambaPOS 4.1.82 setup file.
-[Download SambaPOS 4.1.82](SambaSetup4182.exe)
+[Download SambaPOS 4.1.82](https://github.com/agadiffe/SambaPOS_4_download/blob/master/SambaSetup4182.exe?raw=true)
